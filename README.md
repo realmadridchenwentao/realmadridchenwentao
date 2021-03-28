@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://img.shields.io/badge/OS-XR%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]
