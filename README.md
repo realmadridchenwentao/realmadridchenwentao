@@ -1,5 +1,12 @@
 ### Hi there 👋
++ **My Github Blog.[https://www.realmadridchenwentao.com/](https://www.realmadridchenwentao.com/)**
++ **My Gitee Blog.[https://gitee.com/realmadridchenwentao](https://gitee.com/realmadridchenwentao)**
++ **My CSDN Blog.[https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343)**
++ **My CNBlogs Blog.[https://www.cnblogs.com/mysteryguest](https://www.cnblogs.com/mysteryguest/)**
 
+- 🔭 I’m currently working on java source code...
+- 🌱 I’m currently learning Java, MySQL, Spring, Redis, Elasticsearch...
+- 📫 How to reach me: wentaochen@bupt.edu.cn
 <!--
 **realmadridchenwentao/realmadridchenwentao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
