@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/-www.realmadridchenwentao.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.realmadridchenwentao.com/)](https://www.realmadridchenwentao.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 [![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-realmadridchenwentao-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:realmadridchenwentao@gmail.com)](mailto:realmadridchenwentao@gmail.com)
 
 Welcome to my profile! I'm a student majoring in CS/AI at @BUPT. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/wentaochen/)!
 
