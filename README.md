@@ -7,6 +7,11 @@
 
 Welcome to my profile! I'm a student majoring in CS/AI at @BUPT. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/wentaochen/)!
 
++ **My Github Blog.[https://www.realmadridchenwentao.com/](https://www.realmadridchenwentao.com/)**
++ **My Gitee Blog.[https://gitee.com/realmadridchenwentao](https://gitee.com/realmadridchenwentao)**
++ **My CSDN Blog.[https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343)**
++ **My CNBlogs Blog.[https://www.cnblogs.com/mysteryguest](https://www.cnblogs.com/mysteryguest/)**
+
 ## Join the Community Word Cloud :cloud: :pencil2:
 
 ![](https://img.shields.io/badge/Words%20Added-298-brightgreen?labelColor=7D898B)
@@ -36,10 +41,7 @@ A new word cloud will be automatically generated when you [add your own word](ht
  ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
 
 
-+ **My Github Blog.[https://www.realmadridchenwentao.com/](https://www.realmadridchenwentao.com/)**
-+ **My Gitee Blog.[https://gitee.com/realmadridchenwentao](https://gitee.com/realmadridchenwentao)**
-+ **My CSDN Blog.[https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343)**
-+ **My CNBlogs Blog.[https://www.cnblogs.com/mysteryguest](https://www.cnblogs.com/mysteryguest/)**
+
 
 
 - 🔭 I’m currently working on java source code...
