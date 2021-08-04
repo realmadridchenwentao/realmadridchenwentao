@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)
 [![Gmail Badge](https://img.shields.io/badge/-realmadridchenwentao-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:realmadridchenwentao@gmail.com)](mailto:realmadridchenwentao@gmail.com)
 
-Welcome to my profile! I'm a student majoring in CS/AI at @BUPT. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/wentaochen/)!
+Welcome to my profile! I'm a student majoring in CS/AI at Beijing University of Posts and Telecommunications. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/wentaochen/)!
 
 + **My Github Blog.[https://www.realmadridchenwentao.com/](https://www.realmadridchenwentao.com/)**
 + **My Gitee Blog.[https://gitee.com/realmadridchenwentao](https://gitee.com/realmadridchenwentao)**
