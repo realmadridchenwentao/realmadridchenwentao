@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=realmadridchenwentao&show_icons=true width='400"')](https://github.com/anuraghazra/github-readme-stats)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=realmadridchenwentao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmadridchenwentao&layout=compact&exclude_repo=realmadridchenwentao,realmadridchenwentao.github.io" width='400"' />
 
