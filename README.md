@@ -44,8 +44,8 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 
 
-- 🔭 I’m currently working on Deep Learning on Graph & Big Data
-- 🌱 I’m currently learning Java, MySQL, Spring, Redis, Elasticsearch
+- 🔭 I’m currently working on Pattern Recognition & Computer Vision
+- 🌱 I’m currently learning MultiModal Machine Learning
 - 📫 How to reach me: wentaochen@bupt.edu.cn
 - ⚡ Fun fact: 
 <!--
