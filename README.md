@@ -1,7 +1,7 @@
 # Hi I'm Wentao Chen 👋
 [![Linkedin Badge](https://img.shields.io/badge/-wentaochen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wentaochen/)](https://www.linkedin.com/in/wentaochen/)
 [![Website Badge](https://img.shields.io/badge/-www.realmadridchenwentao.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.realmadridchenwentao.com/)](https://www.realmadridchenwentao.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Twitter Badge](https://img.shields.io/badge/-@realmadrid_chen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/realmadrid_chen)](https://twitter.com/realmadrid_chen)
 [![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)
 [![Gmail Badge](https://img.shields.io/badge/-realmadridchenwentao-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:realmadridchenwentao@gmail.com)](mailto:realmadridchenwentao@gmail.com)
 
