@@ -12,10 +12,10 @@ Welcome to my profile! I'm a student majoring in Information Engineering at Scho
 + **My CSDN Blog.[https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343)**
 + **My CNBlogs Blog.[https://www.cnblogs.com/realmadridchenwentao/](https://www.cnblogs.com/realmadridchenwentao/)**
 
-- 🔭 I’m currently working on Pattern Recognition & Computer Vision
-- 🌱 I’m currently learning MultiModal Machine Learning
+- 🔭 I’m currently working on Pattern Recognition & Computer Vision.
+- 🌱 I’m currently learning MultiModal Machine Learning.
 - 📫 How to reach me: wentaochen@bupt.edu.cn
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love football and I am also a rail fan.
 <!--
 **realmadridchenwentao/realmadridchenwentao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
