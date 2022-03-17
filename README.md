@@ -7,10 +7,11 @@
 
 Welcome to my profile! I'm a student majoring in Information Engineering at School of Artificial Intelligence, Beijing University of Posts and Telecommunications. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/wentaochen/)!
 
-+ **My Github Blog.[https://www.realmadridchenwentao.com/](https://www.realmadridchenwentao.com/)**
-+ **My Gitee Blog.[https://gitee.com/realmadridchenwentao](https://gitee.com/realmadridchenwentao)**
-+ **My CSDN Blog.[https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343)**
-+ **My CNBlogs Blog.[https://www.cnblogs.com/realmadridchenwentao/](https://www.cnblogs.com/realmadridchenwentao/)**
++ **My [Github Blog](https://www.realmadridchenwentao.com/).**
++ **My [Gitee Blog](https://gitee.com/realmadridchenwentao).**
++ **My [CSDN Blog](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343).**
++ **My [CNBlogs Blog](https://www.cnblogs.com/realmadridchenwentao/).**
++ **My [Academic Personal Homepage](realmadridchenwentao.github.io).**
 
 - 🔭 I’m currently working on Pattern Recognition & Computer Vision.
 - 🌱 I’m currently learning MultiModal Machine Learning.
