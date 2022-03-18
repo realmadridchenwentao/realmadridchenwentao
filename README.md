@@ -11,7 +11,7 @@ Welcome to my profile! I'm a student majoring in Information Engineering at Scho
 + **My [Gitee Blog](https://gitee.com/realmadridchenwentao).**
 + **My [CSDN Blog](https://blog.csdn.net/weixin_46103817?spm=1010.2135.3001.5343).**
 + **My [CNBlogs Blog](https://www.cnblogs.com/realmadridchenwentao/).**
-+ **My [Academic Personal Homepage](realmadridchenwentao.github.io).**
++ **My [Academic Personal Homepage](https://www.realmadridchenwentao.github.io).**
 
 - 🔭 I’m currently working on Pattern Recognition & Computer Vision.
 - 🌱 I’m currently learning MultiModal Machine Learning.
