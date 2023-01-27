@@ -44,6 +44,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=realmadridchenwentao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmadridchenwentao&layout=compact&exclude_repo=realmadridchenwentao,realmadridchenwentao.github.io" width='300"' />
+-->
+
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=realmadridchenwentao&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&hide_border=true" alt="realmadridchenwentao's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmadridchenwentao&layout=compact&hide_border=true&bg_color=white" />|
+| ------------- | ------------- |
+
+
+
+
+
+
 
