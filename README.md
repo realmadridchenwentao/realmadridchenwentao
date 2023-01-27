@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-wentaochen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wentaochen/)](https://www.linkedin.com/in/wentaochen/)
 [![Website Badge](https://img.shields.io/badge/-chenwentao.xyz-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://chenwentao.xyz/)](https://www.realmadridchenwentao.com/)
 [![Gmail Badge](https://img.shields.io/badge/-realmadridchenwentao-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:realmadridchenwentao@gmail.com)](mailto:realmadridchenwentao@gmail.com)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-47CCCC?style=flat&logo=Google-Scholar&logoColor=white&link=http://chenwentao.xyz/)](https://www.realmadridchenwentao.com/)
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@realmadrid_chen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/realmadrid_chen)](https://twitter.com/realmadrid_chen)
@@ -23,7 +24,7 @@ My recent works are mainly on:
 
 * Medical Image Analysis 
 
-I am always open to research collaborations👯. Feel free to contact me.
+I am always open to research collaborations. Feel free to contact me.
 <!--
 
 - 🔭 I’m currently working on Pattern Recognition & Computer Vision.
