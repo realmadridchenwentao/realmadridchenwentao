@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)
 -->
 
-Welcome to my profile! I'm a student majoring in Information Engineering at School of Artificial Intelligence, Beijing University of Posts and Telecommunications. Thanks for visiting and I'd love to [connect📫](https://www.linkedin.com/in/wentaochen/)!
+Welcome to my profile! I'm a Ph.D. candidate at Shanghai Jiao Tong University. Thanks for visiting and I'd love to [connect📫](https://www.linkedin.com/in/wentaochen/)!
 
 
 My recent works are mainly on:
