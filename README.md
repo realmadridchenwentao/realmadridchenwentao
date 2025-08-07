@@ -4,25 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-realmadridchenwentao-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:realmadridchenwentao@gmail.com)](mailto:realmadridchenwentao@gmail.com)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-important?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=kUswDmoAAAAJ)](https://scholar.google.com/citations?user=kUswDmoAAAAJ)
 
-<!--
-[![Twitter Badge](https://img.shields.io/badge/-@realmadrid_chen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/realmadrid_chen)](https://twitter.com/realmadrid_chen)
-[![Instagram Badge](https://img.shields.io/badge/-@realmadridchenwentao-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/realmadridchenwentao/)](https://www.instagram.com/realmadridchenwentao/)
--->
-
 Welcome to my profile! I'm a Ph.D. candidate at Shanghai Jiao Tong University. Thanks for visiting and I'd love to [connect📫](https://www.linkedin.com/in/wentaochen/)!
-
 
 My recent works are mainly on:
 
-* CNN/Transformer Backbone
-
-* Semantic/Instance/Panoptic Segmentation
-
-* Imbalanced Learning
-
-* Vision-Language Model
-
-* Medical Image Analysis 
+* Designing scalable and self-improving AI systems for high-performance computing
 
 I am always open to research collaborations. Feel free to contact me.
 <!--
